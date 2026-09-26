@@ -1,0 +1,9 @@
+## Interface: 11507
+## Title: SplashTag
+## Notes: Yoink!
+## Author: Splash
+## Version: 1.0
+## SavedVariables: SplashTagSaved
+
+Zones.lua
+SplashTag.lua
